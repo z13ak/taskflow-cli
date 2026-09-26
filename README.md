@@ -1,7 +1,7 @@
 # taskflow-cli
 
 A terminal task tracker with color-coded priorities, due dates, and
-completion stats — built with `argparse` and rendered with `rich`.
+completion stats - built with `argparse` and rendered with `rich`.
 
 ## Setup
 

@@ -32,4 +32,4 @@ python -m taskflow list
 | `taskflow stats`                    | Completion rate, pending-by-priority, overdue count. |
 
 Tasks are stored in SQLite at `~/.taskflow/tasks.db` (override with the
-`TASKFLOW_DB` environment variable — useful for tests or per-project task lists).
+`TASKFLOW_DB` environment variable - useful for tests or per-project task lists).
